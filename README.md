@@ -1,4 +1,6 @@
 AWS
+Module 2 Knowledge Check
+<img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/21dd87dd-b164-4fba-90b5-8145fa74afc1" />
 Lab 3.1 - Amazon SageMaker - Creating and importing data
 <img width="1918" height="1080" alt="{FCABD314-063C-42CC-A7C7-56DBC32F457D}" src="https://github.com/user-attachments/assets/448f947b-a356-484d-9561-22f244cfd5fe" />
 Lab 3.2 - Amazon SageMaker - Exploring Data
