@@ -9,3 +9,7 @@ Lab 3.2 - Amazon SageMaker - Exploring Data
 <img width="1920" height="1078" alt="{20766649-9B73-4753-A4CD-F4D543A16C66}" src="https://github.com/user-attachments/assets/c597ab9e-1d7e-4973-abc8-0fdbb4ca86e4" />
  Lab 3.4 - Amazon SageMaker - Training a model 
  <img width="2560" height="1664" alt="image" src="https://github.com/user-attachments/assets/4ec7646d-f9e8-4b4f-95f6-389c7da28a7e" />
+Lab 3.5 Amazon SageMaker - Deploying a model
+
+Lab 3.6 Amazon SageMaker - Generating model performance metrics
+<img width="1907" height="1076" alt="image" src="https://github.com/user-attachments/assets/bf62ef2c-d728-4f8b-ace0-4c49eccbe1e7" />
