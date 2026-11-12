@@ -14,6 +14,6 @@ Lab 3.5 Amazon SageMaker - Deploying a model
 Lab 3.6 Amazon SageMaker - Generating model performance metrics
 <img width="1907" height="1076" alt="image" src="https://github.com/user-attachments/assets/bf62ef2c-d728-4f8b-ace0-4c49eccbe1e7" />
 Lab 3.7 - Amazon SageMaker - Hyperparameter Tuning
-
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/ad3d642f-c9ed-42fc-a24e-f25213564bcc" />
 Module 3 Knowledge Check 
 <img width="1919" height="1070" alt="image" src="https://github.com/user-attachments/assets/3df86c0d-5184-47bc-8914-cb3460c69cff" />
